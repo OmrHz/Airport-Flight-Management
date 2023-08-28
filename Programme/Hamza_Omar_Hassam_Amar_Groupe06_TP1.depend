@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1680125967 source:c:\users\thinkpad\desktop\tp\libb.c
+	"libb.h"
+
+1679945288 c:\users\thinkpad\desktop\tp\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1680191778 source:c:\users\thinkpad\desktop\tp\main.c
+	"libb.h"
+	"theMenu.h"
+
+1680125911 c:\users\thinkpad\desktop\tp\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680191749 source:c:\users\thinkpad\desktop\tp\themenu.c
+	"themenu.h"
+
+1680097166 source:c:\users\thinkpad\desktop\tp 1.0\libb.c
+	"libb.h"
+
+1679916488 c:\users\thinkpad\desktop\tp 1.0\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1680162978 source:c:\users\thinkpad\desktop\tp 1.0\main.c
+	"libb.h"
+	"theMenu.h"
+
+1680200382 c:\users\thinkpad\desktop\tp 1.0\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680162948 source:c:\users\thinkpad\desktop\tp 1.0\themenu.c
+	"themenu.h"
+
+1680171578 source:c:\users\thinkpad\desktop\programme\libb.c
+	"libb.h"
+
+1679887688 c:\users\thinkpad\desktop\programme\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1681171798 source:c:\users\thinkpad\desktop\programme\main.c
+	"libb.h"
+	"theMenu.h"
+
+1680171582 c:\users\thinkpad\desktop\programme\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680171286 source:c:\users\thinkpad\desktop\programme\themenu.c
+	"themenu.h"
+
+1681581020 source:c:\users\thinkpad\desktop\esi_hz\programme\libb.c
+	"libb.h"
+
+1681515794 c:\users\thinkpad\desktop\esi_hz\programme\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1681516797 source:c:\users\thinkpad\desktop\esi_hz\programme\main.c
+	"libb.h"
+	"theMenu.h"
+
+1681516796 c:\users\thinkpad\desktop\esi_hz\programme\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1681516521 source:c:\users\thinkpad\desktop\esi_hz\programme\themenu.c
+	"themenu.h"
+
+1681581020 source:c:\users\thinkpad\desktop\esi_hz\c\programme\libb.c
+	"libb.h"
+
+1683057632 c:\users\thinkpad\desktop\esi_hz\c\programme\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1681516797 source:c:\users\thinkpad\desktop\esi_hz\c\programme\main.c
+	"libb.h"
+	"theMenu.h"
+
+1681516796 c:\users\thinkpad\desktop\esi_hz\c\programme\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1684345188 source:c:\users\thinkpad\desktop\esi_hz\c\programme\themenu.c
+	"themenu.h"
+

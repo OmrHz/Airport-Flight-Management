@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1679778504 source:c:\users\thinkpad\desktop\tp code\tp_alsdd\libb.c
+	"libb.h"
+
+1679779393 source:c:\users\thinkpad\desktop\tp code\tp_alsdd\main.c
+	"libb.h"
+	"theMenu.h"
+
+1679735646 c:\users\thinkpad\desktop\tp code\tp_alsdd\libb.c
+	"libb.h"
+
+1679736198 c:\users\thinkpad\desktop\tp code\tp_alsdd\themenu.c
+	"themenu.h"
+
+1679776220 source:c:\users\thinkpad\desktop\tp code\tp_alsdd\themenu.c
+	"themenu.h"
+
+1679736587 c:\users\thinkpad\desktop\tp code\tp_alsdd\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1679736152 c:\users\thinkpad\desktop\tp code\tp_alsdd\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1679829882 source:c:\users\hassa\onedrive\bureau\tp_alsdd\libb.c
+	"libb.h"
+
+1679811456 c:\users\hassa\onedrive\bureau\tp_alsdd\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1679828790 source:c:\users\hassa\onedrive\bureau\tp_alsdd\main.c
+	"libb.h"
+	"theMenu.h"
+
+1679811454 c:\users\hassa\onedrive\bureau\tp_alsdd\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1679828794 source:c:\users\hassa\onedrive\bureau\tp_alsdd\themenu.c
+	"themenu.h"
+
+1679862176 source:c:\users\thinkpad\desktop\tp_alsdd\libb.c
+	"libb.h"
+
+1679843857 c:\users\thinkpad\desktop\tp_alsdd\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1679861191 source:c:\users\thinkpad\desktop\tp_alsdd\main.c
+	"libb.h"
+	"theMenu.h"
+
+1679843854 c:\users\thinkpad\desktop\tp_alsdd\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1679861195 source:c:\users\thinkpad\desktop\tp_alsdd\themenu.c
+	"themenu.h"
+
+1679797482 source:c:\users\hassa\onedrive\bureau\tp_alsdd (dell_all_old corrected)\libb.c
+	"libb.h"
+
+1679786256 c:\users\hassa\onedrive\bureau\tp_alsdd (dell_all_old corrected)\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1679796394 source:c:\users\hassa\onedrive\bureau\tp_alsdd (dell_all_old corrected)\themenu.c
+	"themenu.h"
+
+1679786254 c:\users\hassa\onedrive\bureau\tp_alsdd (dell_all_old corrected)\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680006441 source:c:\users\thinkpad\desktop\tp_alsdd (new edited)\libb.c
+	"libb.h"
+
+1680006489 c:\users\thinkpad\desktop\tp_alsdd (new edited)\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1680007685 source:c:\users\thinkpad\desktop\tp_alsdd (new edited)\main.c
+	"libb.h"
+	"theMenu.h"
+
+1679753854 c:\users\thinkpad\desktop\tp_alsdd (new edited)\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680008802 source:c:\users\thinkpad\desktop\tp_alsdd (new edited)\themenu.c
+	"themenu.h"
+
+1680139623 source:c:\users\hassa\downloads\tp2.0\libb.c
+	"libb.h"
+
+1679974088 c:\users\hassa\downloads\tp2.0\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1679976402 source:c:\users\hassa\downloads\tp2.0\themenu.c
+	"themenu.h"
+
+1679728654 c:\users\hassa\downloads\tp2.0\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680139504 source:c:\users\hassa\downloads\tp2.0\main.c
+	"libb.h"
+	"theMenu.h"
+
+1680140864 source:c:\users\hassa\downloads\tp3.0\libb.c
+	"libb.h"
+
+1679974088 c:\users\hassa\downloads\tp3.0\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1680140585 source:c:\users\hassa\downloads\tp3.0\main.c
+	"libb.h"
+	"theMenu.h"
+
+1679728654 c:\users\hassa\downloads\tp3.0\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1679976402 source:c:\users\hassa\downloads\tp3.0\themenu.c
+	"themenu.h"
+
+1680125967 source:c:\users\thinkpad\desktop\tp3.0 (deleted lenlist() et list() )\libb.c
+	"libb.h"
+
+1679945288 c:\users\thinkpad\desktop\tp3.0 (deleted lenlist() et list() )\libb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1680191749 source:c:\users\thinkpad\desktop\tp3.0 (deleted lenlist() et list() )\themenu.c
+	"themenu.h"
+
+1680125911 c:\users\thinkpad\desktop\tp3.0 (deleted lenlist() et list() )\themenu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1680191683 source:c:\users\thinkpad\desktop\tp3.0 (deleted lenlist() et list() )\main.c
+	"libb.h"
+	"theMenu.h"
+
